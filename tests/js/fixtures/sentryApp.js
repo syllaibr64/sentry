@@ -5,7 +5,7 @@ export function SentryApp(params = {}) {
     scopes: ['project:read'],
     uuid: '123456123456123456123456',
     webhookUrl: 'https://example.com/webhook',
-    redirectUrl: 'https://example/com/setup',
+    redirectUrl: 'https://example.com/setup',
     clientId: 'client-id',
     clientSecret: 'client-secret',
     overview: 'This is an app.',

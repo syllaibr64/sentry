@@ -65,7 +65,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
               "name": "Sample App",
               "organization": "org-slug",
               "overview": "This is an app.",
-              "redirectUrl": "https://example/com/setup",
+              "redirectUrl": "https://example.com/setup",
               "scopes": Array [
                 "project:read",
               ],
@@ -439,7 +439,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                   "name": "Sample App",
                                                                   "organization": "org-slug",
                                                                   "overview": "This is an app.",
-                                                                  "redirectUrl": "https://example/com/setup",
+                                                                  "redirectUrl": "https://example.com/setup",
                                                                   "scopes": Array [
                                                                     "project:read",
                                                                   ],
@@ -454,7 +454,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                   "name": "Sample App",
                                                                   "organization": "org-slug",
                                                                   "overview": "This is an app.",
-                                                                  "redirectUrl": "https://example/com/setup",
+                                                                  "redirectUrl": "https://example.com/setup",
                                                                   "scopes": Array [
                                                                     "project:read",
                                                                   ],
@@ -482,7 +482,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                     ],
                                                                     "uuid" => "123456123456123456123456",
                                                                     "webhookUrl" => "https://example.com/webhook",
-                                                                    "redirectUrl" => "https://example/com/setup",
+                                                                    "redirectUrl" => "https://example.com/setup",
                                                                     "clientId" => "client-id",
                                                                     "clientSecret" => "client-secret",
                                                                     "overview" => "This is an app.",
@@ -565,7 +565,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -724,7 +724,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -739,7 +739,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -767,7 +767,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                                 ],
                                                                                                 "uuid" => "123456123456123456123456",
                                                                                                 "webhookUrl" => "https://example.com/webhook",
-                                                                                                "redirectUrl" => "https://example/com/setup",
+                                                                                                "redirectUrl" => "https://example.com/setup",
                                                                                                 "clientId" => "client-id",
                                                                                                 "clientSecret" => "client-secret",
                                                                                                 "overview" => "This is an app.",
@@ -1026,7 +1026,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                   "name": "Sample App",
                                                                   "organization": "org-slug",
                                                                   "overview": "This is an app.",
-                                                                  "redirectUrl": "https://example/com/setup",
+                                                                  "redirectUrl": "https://example.com/setup",
                                                                   "scopes": Array [
                                                                     "project:read",
                                                                   ],
@@ -1041,7 +1041,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                   "name": "Sample App",
                                                                   "organization": "org-slug",
                                                                   "overview": "This is an app.",
-                                                                  "redirectUrl": "https://example/com/setup",
+                                                                  "redirectUrl": "https://example.com/setup",
                                                                   "scopes": Array [
                                                                     "project:read",
                                                                   ],
@@ -1069,7 +1069,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                     ],
                                                                     "uuid" => "123456123456123456123456",
                                                                     "webhookUrl" => "https://example.com/webhook",
-                                                                    "redirectUrl" => "https://example/com/setup",
+                                                                    "redirectUrl" => "https://example.com/setup",
                                                                     "clientId" => "client-id",
                                                                     "clientSecret" => "client-secret",
                                                                     "overview" => "This is an app.",
@@ -1152,7 +1152,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -1311,7 +1311,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -1326,7 +1326,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -1354,7 +1354,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                                 ],
                                                                                                 "uuid" => "123456123456123456123456",
                                                                                                 "webhookUrl" => "https://example.com/webhook",
-                                                                                                "redirectUrl" => "https://example/com/setup",
+                                                                                                "redirectUrl" => "https://example.com/setup",
                                                                                                 "clientId" => "client-id",
                                                                                                 "clientSecret" => "client-secret",
                                                                                                 "overview" => "This is an app.",
@@ -1604,7 +1604,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                   "name": "Sample App",
                                                                   "organization": "org-slug",
                                                                   "overview": "This is an app.",
-                                                                  "redirectUrl": "https://example/com/setup",
+                                                                  "redirectUrl": "https://example.com/setup",
                                                                   "scopes": Array [
                                                                     "project:read",
                                                                   ],
@@ -1619,7 +1619,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                   "name": "Sample App",
                                                                   "organization": "org-slug",
                                                                   "overview": "This is an app.",
-                                                                  "redirectUrl": "https://example/com/setup",
+                                                                  "redirectUrl": "https://example.com/setup",
                                                                   "scopes": Array [
                                                                     "project:read",
                                                                   ],
@@ -1647,7 +1647,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                     ],
                                                                     "uuid" => "123456123456123456123456",
                                                                     "webhookUrl" => "https://example.com/webhook",
-                                                                    "redirectUrl" => "https://example/com/setup",
+                                                                    "redirectUrl" => "https://example.com/setup",
                                                                     "clientId" => "client-id",
                                                                     "clientSecret" => "client-secret",
                                                                     "overview" => "This is an app.",
@@ -1730,7 +1730,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -1747,7 +1747,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                           onKeyDown={[Function]}
                                                                                           placeholder="e.g. https://example.com/sentry/setup/"
                                                                                           type="text"
-                                                                                          value="https://example/com/setup"
+                                                                                          value="https://example.com/setup"
                                                                                         >
                                                                                           <input
                                                                                             className="css-ybupf9-Input-inputStyles e1xej46s0"
@@ -1760,7 +1760,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                             onKeyDown={[Function]}
                                                                                             placeholder="e.g. https://example.com/sentry/setup/"
                                                                                             type="text"
-                                                                                            value="https://example/com/setup"
+                                                                                            value="https://example.com/setup"
                                                                                           />
                                                                                         </Input>
                                                                                       </Observer>
@@ -1887,7 +1887,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -1902,7 +1902,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -1930,7 +1930,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                                 ],
                                                                                                 "uuid" => "123456123456123456123456",
                                                                                                 "webhookUrl" => "https://example.com/webhook",
-                                                                                                "redirectUrl" => "https://example/com/setup",
+                                                                                                "redirectUrl" => "https://example.com/setup",
                                                                                                 "clientId" => "client-id",
                                                                                                 "clientSecret" => "client-secret",
                                                                                                 "overview" => "This is an app.",
@@ -2180,7 +2180,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                   "name": "Sample App",
                                                                   "organization": "org-slug",
                                                                   "overview": "This is an app.",
-                                                                  "redirectUrl": "https://example/com/setup",
+                                                                  "redirectUrl": "https://example.com/setup",
                                                                   "scopes": Array [
                                                                     "project:read",
                                                                   ],
@@ -2195,7 +2195,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                   "name": "Sample App",
                                                                   "organization": "org-slug",
                                                                   "overview": "This is an app.",
-                                                                  "redirectUrl": "https://example/com/setup",
+                                                                  "redirectUrl": "https://example.com/setup",
                                                                   "scopes": Array [
                                                                     "project:read",
                                                                   ],
@@ -2223,7 +2223,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                     ],
                                                                     "uuid" => "123456123456123456123456",
                                                                     "webhookUrl" => "https://example.com/webhook",
-                                                                    "redirectUrl" => "https://example/com/setup",
+                                                                    "redirectUrl" => "https://example.com/setup",
                                                                     "clientId" => "client-id",
                                                                     "clientSecret" => "client-secret",
                                                                     "overview" => "This is an app.",
@@ -2307,7 +2307,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -2490,7 +2490,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -2505,7 +2505,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                               "name": "Sample App",
                                                                                               "organization": "org-slug",
                                                                                               "overview": "This is an app.",
-                                                                                              "redirectUrl": "https://example/com/setup",
+                                                                                              "redirectUrl": "https://example.com/setup",
                                                                                               "scopes": Array [
                                                                                                 "project:read",
                                                                                               ],
@@ -2533,7 +2533,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                                 ],
                                                                                                 "uuid" => "123456123456123456123456",
                                                                                                 "webhookUrl" => "https://example.com/webhook",
-                                                                                                "redirectUrl" => "https://example/com/setup",
+                                                                                                "redirectUrl" => "https://example.com/setup",
                                                                                                 "clientId" => "client-id",
                                                                                                 "clientSecret" => "client-secret",
                                                                                                 "overview" => "This is an app.",
@@ -2762,7 +2762,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                   "name": "Sample App",
                                                   "organization": "org-slug",
                                                   "overview": "This is an app.",
-                                                  "redirectUrl": "https://example/com/setup",
+                                                  "redirectUrl": "https://example.com/setup",
                                                   "scopes": Array [
                                                     "project:read",
                                                   ],
@@ -2777,7 +2777,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                   "name": "Sample App",
                                                   "organization": "org-slug",
                                                   "overview": "This is an app.",
-                                                  "redirectUrl": "https://example/com/setup",
+                                                  "redirectUrl": "https://example.com/setup",
                                                   "scopes": Array [
                                                     "project:read",
                                                   ],
@@ -2805,7 +2805,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                     ],
                                                     "uuid" => "123456123456123456123456",
                                                     "webhookUrl" => "https://example.com/webhook",
-                                                    "redirectUrl" => "https://example/com/setup",
+                                                    "redirectUrl" => "https://example.com/setup",
                                                     "clientId" => "client-id",
                                                     "clientSecret" => "client-secret",
                                                     "overview" => "This is an app.",
@@ -3853,7 +3853,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                               "name": "Sample App",
                                                                               "organization": "org-slug",
                                                                               "overview": "This is an app.",
-                                                                              "redirectUrl": "https://example/com/setup",
+                                                                              "redirectUrl": "https://example.com/setup",
                                                                               "scopes": Array [
                                                                                 "project:read",
                                                                               ],
@@ -3868,7 +3868,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                               "name": "Sample App",
                                                                               "organization": "org-slug",
                                                                               "overview": "This is an app.",
-                                                                              "redirectUrl": "https://example/com/setup",
+                                                                              "redirectUrl": "https://example.com/setup",
                                                                               "scopes": Array [
                                                                                 "project:read",
                                                                               ],
@@ -3896,7 +3896,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                 ],
                                                                                 "uuid" => "123456123456123456123456",
                                                                                 "webhookUrl" => "https://example.com/webhook",
-                                                                                "redirectUrl" => "https://example/com/setup",
+                                                                                "redirectUrl" => "https://example.com/setup",
                                                                                 "clientId" => "client-id",
                                                                                 "clientSecret" => "client-secret",
                                                                                 "overview" => "This is an app.",
@@ -4141,7 +4141,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                   "name": "Sample App",
                                                   "organization": "org-slug",
                                                   "overview": "This is an app.",
-                                                  "redirectUrl": "https://example/com/setup",
+                                                  "redirectUrl": "https://example.com/setup",
                                                   "scopes": Array [
                                                     "project:read",
                                                   ],
@@ -4156,7 +4156,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                   "name": "Sample App",
                                                   "organization": "org-slug",
                                                   "overview": "This is an app.",
-                                                  "redirectUrl": "https://example/com/setup",
+                                                  "redirectUrl": "https://example.com/setup",
                                                   "scopes": Array [
                                                     "project:read",
                                                   ],
@@ -4184,7 +4184,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                     ],
                                                     "uuid" => "123456123456123456123456",
                                                     "webhookUrl" => "https://example.com/webhook",
-                                                    "redirectUrl" => "https://example/com/setup",
+                                                    "redirectUrl" => "https://example.com/setup",
                                                     "clientId" => "client-id",
                                                     "clientSecret" => "client-secret",
                                                     "overview" => "This is an app.",
@@ -4425,7 +4425,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                               "name": "Sample App",
                                                                               "organization": "org-slug",
                                                                               "overview": "This is an app.",
-                                                                              "redirectUrl": "https://example/com/setup",
+                                                                              "redirectUrl": "https://example.com/setup",
                                                                               "scopes": Array [
                                                                                 "project:read",
                                                                               ],
@@ -4440,7 +4440,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                               "name": "Sample App",
                                                                               "organization": "org-slug",
                                                                               "overview": "This is an app.",
-                                                                              "redirectUrl": "https://example/com/setup",
+                                                                              "redirectUrl": "https://example.com/setup",
                                                                               "scopes": Array [
                                                                                 "project:read",
                                                                               ],
@@ -4468,7 +4468,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                 ],
                                                                                 "uuid" => "123456123456123456123456",
                                                                                 "webhookUrl" => "https://example.com/webhook",
-                                                                                "redirectUrl" => "https://example/com/setup",
+                                                                                "redirectUrl" => "https://example.com/setup",
                                                                                 "clientId" => "client-id",
                                                                                 "clientSecret" => "client-secret",
                                                                                 "overview" => "This is an app.",
@@ -4669,7 +4669,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                   "name": "Sample App",
                                                   "organization": "org-slug",
                                                   "overview": "This is an app.",
-                                                  "redirectUrl": "https://example/com/setup",
+                                                  "redirectUrl": "https://example.com/setup",
                                                   "scopes": Array [
                                                     "project:read",
                                                   ],
@@ -4684,7 +4684,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                   "name": "Sample App",
                                                   "organization": "org-slug",
                                                   "overview": "This is an app.",
-                                                  "redirectUrl": "https://example/com/setup",
+                                                  "redirectUrl": "https://example.com/setup",
                                                   "scopes": Array [
                                                     "project:read",
                                                   ],
@@ -4712,7 +4712,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                     ],
                                                     "uuid" => "123456123456123456123456",
                                                     "webhookUrl" => "https://example.com/webhook",
-                                                    "redirectUrl" => "https://example/com/setup",
+                                                    "redirectUrl" => "https://example.com/setup",
                                                     "clientId" => "client-id",
                                                     "clientSecret" => "client-secret",
                                                     "overview" => "This is an app.",
@@ -4953,7 +4953,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                               "name": "Sample App",
                                                                               "organization": "org-slug",
                                                                               "overview": "This is an app.",
-                                                                              "redirectUrl": "https://example/com/setup",
+                                                                              "redirectUrl": "https://example.com/setup",
                                                                               "scopes": Array [
                                                                                 "project:read",
                                                                               ],
@@ -4968,7 +4968,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                               "name": "Sample App",
                                                                               "organization": "org-slug",
                                                                               "overview": "This is an app.",
-                                                                              "redirectUrl": "https://example/com/setup",
+                                                                              "redirectUrl": "https://example.com/setup",
                                                                               "scopes": Array [
                                                                                 "project:read",
                                                                               ],
@@ -4996,7 +4996,7 @@ exports[`Sentry Application Details edit existing application renders() it shows
                                                                                 ],
                                                                                 "uuid" => "123456123456123456123456",
                                                                                 "webhookUrl" => "https://example.com/webhook",
-                                                                                "redirectUrl" => "https://example/com/setup",
+                                                                                "redirectUrl" => "https://example.com/setup",
                                                                                 "clientId" => "client-id",
                                                                                 "clientSecret" => "client-secret",
                                                                                 "overview" => "This is an app.",
