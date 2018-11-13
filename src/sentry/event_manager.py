@@ -655,8 +655,8 @@ class EventManager(object):
         if data['transaction']:
             data['transaction'] = trim(data['transaction'], MAX_CULPRIT_LENGTH)
 
-        if meta.get():
-            data['_meta'] = meta.get()
+        if meta.raw():
+            data['_meta'] = meta.raw()
         elif '_meta' in data:
             del data['_meta']
 
