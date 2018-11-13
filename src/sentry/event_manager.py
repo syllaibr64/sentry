@@ -655,6 +655,11 @@ class EventManager(object):
         if data['transaction']:
             data['transaction'] = trim(data['transaction'], MAX_CULPRIT_LENGTH)
 
+        if meta.get():
+            data['_meta'] = meta.get()
+        elif '_meta' in data:
+            del data['_meta']
+
         self._data = data
 
     def should_filter(self):
