@@ -5,7 +5,7 @@ let validHookNames = new Set([
   'component:org-members-view',
   'component:org-auth-view',
   'component:sample-event',
-  'component:sample-event-banner',
+  'component:install-prompt-banner',
   'footer',
   'settings:organization-navigation',
   'settings:organization-navigation-config',

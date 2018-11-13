@@ -154,8 +154,8 @@ export default {
     Pagination: require('app/components/pagination').default,
     PluginConfig: require('app/components/pluginConfig').default,
     ProjectSelector: require('app/components/projectHeader/projectSelector').default,
-    SampleEvent: require('app/components/sampleEvent').default,
-    SampleEventBanner: require('app/components/sampleEventBanner').default,
+    CreateSampleEvent: require('app/components/createSampleEvent').default,
+    InstallPromptBanner: require('app/components/installPromptBanner').default,
     SentryTypes: require('app/sentryTypes').default,
     SettingsPageHeader: require('app/views/settings/components/settingsPageHeader')
       .default,
